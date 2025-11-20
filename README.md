@@ -174,8 +174,8 @@ This project is created for educational purposes as part of a DBMS course projec
 
 ## 👨‍💻 Author
 
-**R Sanjandeep**
-**R Vijaynarasimha Nayak**
+- **R Sanjandeep**
+- **R Vijaynarasimha Nayak**
 
 ## Acknowledgments
 
